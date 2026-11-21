@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🔭 I’m currently working on<br>Full-Stack Web Applications (MERN Stack) & UI/UX Design Projects   <br>👯 I’m looking to collaborate on<br>Open-source React/Node.js projects & Web Development initiatives   <br>🌱 I’m currently learning<br>Advanced System Architecture & Performance Optimization   <br>💬 Ask me about<br>React, Node.js, Express, MongoDB, Tailwind CSS, & C# WinForms   <br>⚡ Fun fact<br>I love building smooth user interfaces and solving complex backend logic!   
 
 
