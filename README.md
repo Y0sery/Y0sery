@@ -11,7 +11,7 @@
 
 - 🚀 **Currently building:** Full-stack web applications with the MERN stack
 - 🤝 **Looking to collaborate on:** Open-source React/Node.js projects and web development initiatives
-- 🌱 **Currently learning:** Backend development with C# and .NET, RESTful APIs, Docker
+- 🌱 **Currently learning:** Advanced system architecture and performance optimization, AI integration (LLM APIs, prompt engineering, and AI-powered features), and data engineering
 - 💬 **Ask me about:** React, Node.js, Express, MongoDB, SQL Server, Angular
 - ⚡ **Fun fact:** I enjoy building smooth user interfaces and solving complex backend logic!
 
@@ -28,15 +28,17 @@ Bachelor's degree in Computer Science and Information Technology (2022 – 2026)
 
 **Languages:** JavaScript, TypeScript, C#, Java, Python
 
-**Front-End:** React.js, React Native, Angular, HTML5, CSS3, Bootstrap, jQuery
+**Front-End:** React.js, React Native, Angular, RxJS, Firebase, HTML5, CSS3, Bootstrap, jQuery
 
-**Back-End:** Node.js, Express.js, .NET Framework
+**Back-End:** Node.js, Express.js, .NET Framework, Entity Framework, RESTful APIs, MVC
 
 **Databases:** MongoDB, MS SQL Server
 
-**DevOps & Tools:** Git, GitHub, Docker, Jenkins, Azure DevOps
+**DevOps & Tools:** Git, GitHub, Docker, Jenkins, Azure DevOps, Postman
 
-**AI Tools:** Copilot, Claude, Cursor
+**Concepts:** Data Structures & Algorithms, OOP, Design Patterns, Database Design, JWT Authentication
+
+**AI Tools:** GitHub Copilot, Claude, Cursor, Antigravity
 
 ---
 
